@@ -38,13 +38,13 @@ export const Navbar = () => {
                 />
               </div>
               <div className="min-w-0">
-                <span className="md:hidden text-sm font-bold block leading-tight" style={ { color: '#C4A862' } }>
+                <span className="md:hidden text-base font-extrabold uppercase tracking-wide block leading-tight" style={ { color: '#C4A862' } }>
                   Ramafole SSS
                 </span>
-                <span className="hidden md:block text-base font-bold leading-tight" style={ { color: '#C4A862' } }>
+                <span className="hidden md:block text-lg font-extrabold uppercase tracking-wide leading-tight" style={ { color: '#C4A862' } }>
                   Ramafole Senior Secondary School
                 </span>
-                <span className="text-xs font-semibold tracking-wide uppercase" style={ { color: 'rgba(245,240,220,0.7)' } }>
+                <span className="text-[10px] font-medium tracking-wide italic block mt-0.5" style={ { color: 'rgba(245,240,220,0.55)' } }>
                   Rational Co-operation Leads to Success
                 </span>
               </div>
